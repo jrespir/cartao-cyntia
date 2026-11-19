@@ -1,1 +1,20 @@
-{"name":"Cyntia Lagonegro Longano Espir — Advogados","short_name":"Cyntia Advogados","start_url":"./","scope":"./","display":"standalone","background_color":"#fafaf8","theme_color":"#192b71","icons":[{"src":"icone-192.png","sizes":"192x192","type":"image/png"},{"src":"icone-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Cyntia Lagonegro Longano Espir | Lagonegro e Longano Advogados",
+  "short_name": "Cyntia | LL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fafaf8",
+  "theme_color": "#fafaf8",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
